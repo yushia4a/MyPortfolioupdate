@@ -1,0 +1,302 @@
+body{
+  font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
+}
+
+.headertitle{
+  margin-top:40px;
+  text-align:center;
+  font-size:48px;
+}
+.subtitle{
+  text-align:center;
+  color:rgba(0,0,0,0.8);
+}
+.servicetop{
+  position:relative;
+  top:50px;
+  left:195px;
+}
+.servicetop2{
+  position:relative;
+  top:30px;
+  left:195px;
+}
+
+.option1{
+  margin:70px auto 0;
+  width:730px;
+  height:370px;
+  border:1px solid rgba(0,0,0,0.3);
+}
+.tablehead{
+  background:#DDDDDD;
+  border-bottom:1px solid rgba(0,0,0,0.3);
+}
+.contants{
+  padding-left:20px;
+  width:220px;
+  border-right:1px solid rgba(0,0,0,0.3);
+}
+.volume{
+  text-align:center;
+  width:300px;
+  border-right:1px solid rgba(0,0,0,0.3);
+}
+.value{
+  text-align:center;
+}
+.LP{
+  padding-left:20px;
+  border-right:1px solid rgba(0,0,0,0.3);
+}
+.blog{
+  padding-left:20px;
+  border-right:1px solid rgba(0,0,0,0.3);
+}
+.cop{
+  padding-left:20px;
+  border-right:1px solid rgba(0,0,0,0.3);
+}
+.gersite{
+  padding-left:20px;
+  border-right:1px solid rgba(0,0,0,0.3);
+}
+.media{
+  padding-left:20px;
+  border-right:1px solid rgba(0,0,0,0.3);
+}
+.volume1{
+  text-align:center;
+  border-right:1px solid rgba(0,0,0,0.3);
+}
+.volume2{
+  text-align:center;
+  border-right:1px solid rgba(0,0,0,0.3);
+}
+.volume3{
+  text-align:center;
+  border-right:1px solid rgba(0,0,0,0.3);
+}
+.volume4{
+  text-align:center;
+  border-right:1px solid rgba(0,0,0,0.3);
+}
+.value1{
+  text-align:center;
+}
+.value2{
+  text-align:center;
+}
+.value3{
+  text-align:center;
+}
+.value4{
+  text-align:center;
+}
+.tabledata1{
+  border-bottom:1px solid rgba(0,0,0,0.3);
+}
+.tabledata2{
+  border-bottom:1px solid rgba(0,0,0,0.3);
+}
+.tabledata3{
+  border-bottom:1px solid rgba(0,0,0,0.3);
+}
+.tabledata4{
+  border-bottom:1px solid rgba(0,0,0,0.3);
+}
+
+
+
+
+.option2{
+  margin:50px auto 20px;
+  width:730px;
+  height:550px;
+}
+
+.tablehead2{
+  background:#DDDDDD;
+  border:1px solid rgba(0,0,0,0.3);
+}
+
+.contants2{
+ padding-left:20px; 
+  width:220px;
+  border-right:1px solid rgba(0,0,0,0.3);
+  border-left:1px solid rgba(0,0,0,0.3);
+}
+.value2{
+  width:170px;
+  text-align:center;
+}
+.details{
+  border-right:1px solid rgba(0,0,0,0.3);
+  text-align:center;
+  width:300px;
+}
+
+.toppage{
+  padding-left:20px;
+  border-left:1px solid rgba(0,0,0,0.3);
+  border-right:1px solid rgba(0,0,0,0.3);
+  border-bottom:1px solid rgba(0,0,0,0.3);
+}
+.bottompage{
+  padding-left:20px;
+  border-left:1px solid rgba(0,0,0,0.3);
+  border-right:1px solid rgba(0,0,0,0.3);
+  border-bottom:1px solid rgba(0,0,0,0.3);
+}
+.CMS{
+  padding-left:20px;
+  border-left:1px solid rgba(0,0,0,0.3);
+  border-right:1px solid rgba(0,0,0,0.3);
+  border-bottom:1px solid rgba(0,0,0,0.3);
+}
+.formpage{
+  padding-left:20px;
+  border-left:1px solid rgba(0,0,0,0.3);
+  border-right:1px solid rgba(0,0,0,0.3);
+  border-bottom:1px solid rgba(0,0,0,0.3);
+}
+.SSL{
+  padding-left:20px;
+  border-left:1px solid rgba(0,0,0,0.3);
+  border-right:1px solid rgba(0,0,0,0.3);
+  border-bottom:1px solid rgba(0,0,0,0.3);
+}
+.SEO{
+  padding-left:20px;
+  border-left:1px solid rgba(0,0,0,0.3);
+  border-right:1px solid rgba(0,0,0,0.3);
+  border-bottom:1px solid rgba(0,0,0,0.3);
+}
+
+.volume11{
+  text-align:center;
+  border-bottom:1px solid rgba(0,0,0,0.3);
+  border-right:1px solid rgba(0,0,0,0.3);
+}
+.volume22{
+  text-align:center;
+  border-bottom:1px solid rgba(0,0,0,0.3);
+  border-right:1px solid rgba(0,0,0,0.3);
+}
+.volume33{
+  text-align:center;
+  border-bottom:1px solid rgba(0,0,0,0.3);
+  border-right:1px solid rgba(0,0,0,0.3);
+}
+.volume44{
+  text-align:center;
+  border-bottom:1px solid rgba(0,0,0,0.3);
+  border-right:1px solid rgba(0,0,0,0.3);
+}
+.volume55{
+  text-align:center;
+  border-bottom:1px solid rgba(0,0,0,0.3);
+  border-right:1px solid rgba(0,0,0,0.3);
+}
+.volume66{
+  text-align:center;
+  border-bottom:1px solid rgba(0,0,0,0.3);
+  border-right:1px solid rgba(0,0,0,0.3);
+}
+.detail1{
+  text-align:center;
+  border-right:1px solid rgba(0,0,0,0.3);
+  border-bottom:1px solid rgba(0,0,0,0.3);
+}
+.detail2{
+  text-align:center;
+  border-right:1px solid rgba(0,0,0,0.3);
+  border-bottom:1px solid rgba(0,0,0,0.3);
+}
+.detail3{
+  text-align:center;
+  border-right:1px solid rgba(0,0,0,0.3);
+  border-bottom:1px solid rgba(0,0,0,0.3);
+}
+.detail4{
+  text-align:center;
+  border-right:1px solid rgba(0,0,0,0.3);
+  border-bottom:1px solid rgba(0,0,0,0.3);
+}
+.detail5{
+  text-align:center;
+  border-right:1px solid rgba(0,0,0,0.3);
+  border-bottom:1px solid rgba(0,0,0,0.3);
+}
+.detail6{
+  text-align:center;
+  border-right:1px solid rgba(0,0,0,0.3);
+  border-bottom:1px solid rgba(0,0,0,0.3);
+}
+.backbutton{
+  display:block;
+  float:right;
+  width:80px;
+  height:80px;
+  border-radius:50%;
+
+}
+
+
+.policy{
+  margin:50px auto 25px;
+  font-size:15px;
+  width:390px;
+}
+
+.formsection{
+  margin-top:50px;
+  height:750px;
+  background-color: rgba(93, 133, 201, 0.25);
+}
+.nameform{
+  display:block;
+  margin:0 auto;
+  padding-right:20px;
+  padding-left:20px;
+  width:350px;
+  height:40px;
+  border-radius:5px;
+  border:none;
+}
+.mailform{
+  display:block;
+  margin:20px auto 20px;
+  padding-right:20px;
+  padding-left:20px;
+  width:350px;
+  height:40px;
+  border-radius:5px;
+  border:none;
+}
+.subjectform{
+  display:block;
+  margin:20px auto 20px;
+  padding-right:20px;
+  padding-left:20px;
+  width:350px;
+  height:40px;
+  border-radius:5px;
+  border:none;
+}
+.message{
+  display:block;
+  margin:20px auto 20px;
+  padding-right:20px;
+  padding-left:20px;
+  width:350px;
+  height:120px;
+  border-radius:5px;
+  border:none;
+}
+
+.copyright{
+  height:30px;
+  text-align:center;
+  line-height:90px;
+}
