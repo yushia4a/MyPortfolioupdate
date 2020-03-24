@@ -1,0 +1,286 @@
+
+.servicetop{
+  padding-top:100px;
+  color:white;
+  letter-spacing:0.1em;
+  font-size:34px;
+}
+.direction{
+  width:120px;
+  height:120px;
+  border-radius:50%;
+  background:#00CCCC;
+  font-size:60px;
+  line-height:120px;
+  color:white;
+  font-weight:bold;
+}
+.keyboard{
+  width:120px;
+  height:120px;
+  border-radius:50%;
+  background:#FFCC33;
+  font-size:60px;
+  line-height:120px;
+  color:white;
+  font-weight:bold;
+}
+
+.design{
+  width:120px;
+  height:120px;
+  border-radius:50%;
+  background:#FF6600;
+  font-size:60px;
+  line-height:120px;
+  color:white;
+  font-weight:bold;
+}
+.sertitle1{
+  color:white;
+  margin-top:30px;
+  font-size:25px;
+}
+.sertitle2{
+  color:white;
+  font-size:25px;
+  margin-top:30px;
+}
+.sertitle3{
+  color:white;
+  font-size:25px;
+  margin-top:30px;
+}
+
+.directiontext{
+  letter-spacing:3px;
+   font-size:17px;
+   color:white;
+}
+.coodingtext{
+  letter-spacing:3px;
+   font-size:17px;
+   color:white;
+}
+.designtext{
+  letter-spacing:3px;
+   font-size:17px;
+   color:white;
+}
+.skilltop{
+  padding-top:80px;
+  color:white;
+  letter-spacing:0.1em;
+  font-size:34px;
+}
+.designskill{
+  background-color:rgba(0,0,0,0.8);
+  border-radius:15px;
+}
+.skilltitle1{
+  text-align:center;
+  font-size:23px;
+  padding-top:15px;
+   font-weight:550; 
+   color:white;
+}
+.subtitle1{
+  color:white;
+}
+.skills1{
+  color:white;
+  font-size:19px;
+}
+.skills2{
+  color:white;
+}
+.skills3{
+  color:white;
+}
+.skills4{
+  color:white;
+}
+.years1{
+  color:white;
+  font-size:19px;
+}
+.years2{
+  color:white;
+}
+.years3{
+  color:white;
+}
+.years4{
+  color:white;
+}
+.star1{
+  color:white;
+  font-size:19px;
+}
+.star2{
+  color:white;
+}
+.star3{
+  color:white;
+}
+.star4{
+  color:white;
+}
+
+.serverskill{
+  background-color:rgba(0,0,0,0.8);
+  border-radius:15px;  
+}
+
+.servertop{
+  text-align:center;
+  font-size:23px;
+  padding-top:15px;
+   font-weight:550;
+   color:white;
+}
+.sersubtitle{
+  color:white;
+}
+.serskill1{
+  color:white;
+  font-size:19px;
+}
+.serskill2{
+  color:white;
+}
+.serskill3{
+  color:white;
+}
+.seryear1{
+  color:white;
+  font-size:19px;
+}
+.seryear2{
+  color:white;
+}
+.seryear3{
+  color:white;
+}
+.serstar1{
+  color:white;
+  font-size:19px;
+}
+.serstar2{
+  color:white;
+}
+.serstar3{
+  color:white;
+}
+
+
+
+
+.icon :hover{
+  cursor:pointer;
+}
+.twittericon{
+  font-size:40px;
+}
+
+.twittericon:hover{
+  opacity:0.9;
+}
+.instaicon{
+  font-size:40px;
+  color:rgb(175, 79, 175);
+}
+.instaicon:hover{
+  opacity:0.4;
+}
+
+.twittericon2{
+  font-size:50px;
+  color:#00BFFF;
+
+}
+.twitterocon2:hover{
+  opacity:0.1;
+}
+.instaicon2{
+  font-size:50px;
+  color:rgb(175, 79, 175);
+}
+.instaicon2:hover{
+  opacity:0.4;
+}
+
+.mailicon{
+  font-size:50px;
+}
+.mailicon:hover{
+  opacity:0.6;
+}
+.faceimage{
+  width:280px;
+  height:280px;
+  margin-left:80px;
+  border-radius:50%;
+}
+.snsicon{
+  margin-bottom:30px;
+}
+.policy{
+  margin:50px auto 25px;
+  font-size:15px;
+  width:390px;
+}
+
+.formsection{
+  height:750px;
+  background-color: rgba(93, 133, 201, 0.25);
+}
+.nameform{
+  display:block;
+  margin:0 auto;
+  padding-right:20px;
+  padding-left:20px;
+  width:350px;
+  height:40px;
+  border-radius:5px;
+  border:none;
+}
+.mailform{
+  display:block;
+  margin:20px auto 20px;
+  padding-right:20px;
+  padding-left:20px;
+  width:350px;
+  height:40px;
+  border-radius:5px;
+  border:none;
+}
+.subjectform{
+  display:block;
+  margin:20px auto 20px;
+  padding-right:20px;
+  padding-left:20px;
+  width:350px;
+  height:40px;
+  border-radius:5px;
+  border:none;
+}
+.message{
+  display:block;
+  margin:20px auto 20px;
+  padding-right:20px;
+  padding-left:20px;
+  width:350px;
+  height:120px;
+  border-radius:5px;
+  border:none;
+}
+.btn-info{
+  display:block;
+  margin:20px auto 0;
+}
+.copyright{
+  height:30px;
+  text-align:center;
+  line-height:90px;
+}
